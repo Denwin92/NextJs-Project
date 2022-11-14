@@ -2,7 +2,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { AiOutlineClose, AiOutlineMail, AiOutlineMenu } from "react-icons/ai";
-import { FaGithub, FaLinkedinIn } from "react-icons/fa";
+import { FaGithub, FaLinkedinIn, FaWhatsapp } from "react-icons/fa";
 import React, { useState } from "react";
 import { BsFillPersonLinesFill } from "react-icons/bs";
 
@@ -130,6 +130,16 @@ const NavBar = () => {
                   >
                   <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300">
                     <AiOutlineMail />
+                  </div>
+                  </a>
+
+                  <a
+                    href='https://wa.me/0662588794'
+                    target='_blank'
+                    rel='noreferrer'
+                  >
+                  <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300">
+                    <FaWhatsapp/>
                   </div>
                   </a>
 
