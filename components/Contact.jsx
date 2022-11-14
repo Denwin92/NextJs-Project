@@ -1,9 +1,9 @@
 import React from "react";
 import Image from "next/image";
-import { AiOutlineClose, AiOutlineMail, AiOutlineMenu } from "react-icons/ai";
-import { FaGithub, FaLinkedinIn, FaWhatsapp } from "react-icons/fa";
-// import React, { useState } from "react";
-import { BsFillPersonLinesFill } from "react-icons/bs";
+import { AiOutlineMail} from "react-icons/ai";
+import { FaLinkedinIn } from "react-icons/fa";
+import { FaWhatsapp } from "react-icons/fa";
+import { FaGithub } from "react-icons/fa";
 import {HiOutlineChevronDoubleUp} from "react-icons/hi"
 import Link from "next/link";
 

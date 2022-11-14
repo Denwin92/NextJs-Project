@@ -1,6 +1,8 @@
 import React from 'react'
-import { AiOutlineMail } from 'react-icons/ai'
-import { FaGithub, FaLinkedinIn, FaWhatsapp } from 'react-icons/fa'
+import { AiOutlineMail} from "react-icons/ai";
+import { FaLinkedinIn } from "react-icons/fa";
+import { FaWhatsapp } from "react-icons/fa";
+import { FaGithub } from "react-icons/fa";
 
 const Main = () => {
   return (
