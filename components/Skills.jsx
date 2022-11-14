@@ -44,7 +44,7 @@ const Skills = () => {
             <div className="grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
                 <Image
-                  src="/../public/assets/skills/github1.png"
+                  src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
                   width="64"
                   height="64"
                   alt=""
