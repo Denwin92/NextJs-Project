@@ -44,10 +44,10 @@ const Skills = () => {
             <div className="grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
                 <Image
-                  src="nextjs-portfolio/public/github1.png"
+                  src="/assets/skills/github.png"
                   width="64"
                   height="64"
-                  alt="/"
+                  alt=""
                 />
               </div>
               <div className="flex flex-col items-center justify-center">
@@ -76,7 +76,7 @@ const Skills = () => {
             <div className="grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
                 <Image
-                  src="/../public/assets/skills/nextjs.png"
+                  src="/assets/skills/nextjs.png"
                   width="64"
                   height="64"
                   alt="/"
@@ -108,7 +108,7 @@ const Skills = () => {
             <div className="grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
                 <Image
-                  src="/../public/assets/skills/pythong1.png"
+                  src="/assets/skills/pythong1.png"
                   width="64"
                   height="64"
                   alt="/"
@@ -124,7 +124,7 @@ const Skills = () => {
             <div className="grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
                 <Image
-                  src="/../public/assets/skills/java1.png"
+                  src="/assets/skills/java1.png"
                   width="64"
                   height="64"
                   alt="/"
@@ -140,7 +140,7 @@ const Skills = () => {
             <div className="grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
                 <Image
-                  src="/../public/assets/skills/dart.png"
+                  src="/assets/skills/dart.png"
                   width="64"
                   height="64"
                   alt="/"
@@ -156,7 +156,7 @@ const Skills = () => {
             <div className="grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
                 <Image
-                  src="/../public/assets/skills/flutter.png"
+                  src="/assets/skills/flutter.png"
                   width="64"
                   height="64"
                   alt="/"
