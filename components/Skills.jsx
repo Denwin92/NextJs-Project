@@ -156,7 +156,7 @@ const Skills = () => {
             <div className="grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
                 <Image
-                  src="/assets/skills/flutter.png"
+                  src="/assets/skills/flutter11.png"
                   width="64"
                   height="64"
                   alt="/"
