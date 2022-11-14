@@ -24,7 +24,7 @@ const NavBar = () => {
 
           <Link href = '/#landing'>
             <Image
-          src="/../public/assets/NavLogo.png"
+          src="nextjs-portfolio/public/assets/NavLogo.png"
           alt="/"
           width="125"
           height="50"
