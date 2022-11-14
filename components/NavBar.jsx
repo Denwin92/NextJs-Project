@@ -20,7 +20,7 @@ const NavBar = () => {
     <div className="fixed w-full h-20 shadow-xl z-[100]">
       <div
         className="
-        flex justify-between items-center w-full h-full px-2 2xl:px16">
+        flex justify-between shadow items-center w-full h-full bg-gray-100 px-2 2xl:px16">
 
           <Link href = '/#landing'>
             <Image
@@ -69,7 +69,7 @@ const NavBar = () => {
           }
         >
           <div>
-            <div className="flex w-full items-center justify-between">
+            <div className="flex w-full items-center justify-between ">
               <Image
                 src="/assets/NavLogo.png"
                 width="87"
