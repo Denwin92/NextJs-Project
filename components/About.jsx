@@ -20,7 +20,7 @@ const About = () => {
           height="300"
         />
           </div>
-          <p>After losing my job as a travel consultant as a result of COVID-19, I knew I wanted to be a contributor to this AMAZING revolution. I started researching and came across Wethinkcode_. Wethinkcode_ offers a two year, tuition free, NQF level 5 qualification in systems development. I was fortunate enough to have been accepted to the program. In my time at here, I was exposed and learned various programming languages and frameworks.</p>
+          <p>After losing my job as a travel consultant as a result of COVID-19, I knew I wanted to be a contributor to this AMAZING revolution. I started researching and came across Wethinkcode_. Wethinkcode_ offers a two year, tuition free, NQF level 5 qualification in systems development. I was fortunate enough to have been accepted to the program. In my time here, I was exposed and learned various programming languages and frameworks.</p>
           <p><br /></p>
           <p>In my spare time I enjoy gardening, travelling and advancing my flutter and dart skills. I am also a "pawrent" to 2 feline furbabies ☺️</p>
           <p> <br /> </p>
