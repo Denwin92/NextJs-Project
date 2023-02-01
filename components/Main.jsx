@@ -10,7 +10,7 @@ const Main = () => {
       <div className='max-w-[1240px] w-full h-full mx-auto p-2 flex justify-center items-center'>
         <div>
           <p className='uppercase text-sm tracking-widest text-gray-600'>the Possibilities are  endless</p>
-          <h1>Hello Team SovTech, I'm Denwin, </h1>
+          <h1>Hello, I'm Denwin, </h1>
           <h2>A final year  student at WeThinkCode  -  I would love to be part of your 2023 Graduate Program Cohort.</h2>
           <p><br /></p>
           <p>I've worked hard to develop skills that are relevant to this industry and because this type of work brings me personal satisfaction. I've gained a lot of practical experience since starting at WeThinkCode_, as well as  become familiar with several coding languages, and frameworks, as well as assist in building projects outside of WeThinkCode_. I am so excited to begin a career as a software developer and learn more about this line of work from industry professionals.</p>
